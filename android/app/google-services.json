@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036396580720",
+    "project_id": "comparte-itd",
+    "storage_bucket": "comparte-itd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036396580720:android:3022d4b3c1d6c4ed8f49b5",
+        "android_client_info": {
+          "package_name": "com.appclitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036396580720-ers17ssqlnoel0fu1bamfrogncftga1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ0rbLG9SHN_6PREC82Y-7aC6LZVWUKkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036396580720-ers17ssqlnoel0fu1bamfrogncftga1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
